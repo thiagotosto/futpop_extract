@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 tweepy = "*"
 kafka = "*"
+kafka-python = "*"
+ipykernel = "*"
+apache-flink = "*"
 
 [requires]
 python_version = "3.7"

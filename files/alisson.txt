@@ -1,0 +1,328 @@
+{
+  "created_at": "Fri Nov 13 22:43:26 +0000 2020",
+  "id": 1327381586816413698,
+  "id_str": "1327381586816413698",
+  "text": "RT @livfcbr: Graças a Deus Alisson e Firmino testaram negativo para o COVID-19. 🙌🏻 https://t.co/pxONblXIHi",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1032079641903869953,
+    "id_str": "1032079641903869953",
+    "name": "letícia hates VAR",
+    "screen_name": "protecttrent",
+    "location": "liverpool",
+    "url": null,
+    "description": "|asking me why I love liverpool is like asking why I breathe|❤️",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 66,
+    "friends_count": 817,
+    "listed_count": 0,
+    "favourites_count": 20632,
+    "statuses_count": 6542,
+    "created_at": "Wed Aug 22 01:38:56 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1306626472719929344/9PnoGZT6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1306626472719929344/9PnoGZT6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032079641903869953/1600358972",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Nov 13 13:47:59 +0000 2020",
+    "id": 1327246835396857856,
+    "id_str": "1327246835396857856",
+    "text": "Graças a Deus Alisson e Firmino testaram negativo para o COVID-19. 🙌🏻 https://t.co/pxONblXIHi",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3053867319,
+      "id_str": "3053867319",
+      "name": "Liverpool FC Brasil",
+      "screen_name": "livfcbr",
+      "location": null,
+      "url": "https://www.facebook.com/livfcbr",
+      "description": "Official Liverpool FC Supporters Club - Perfil vinculado à página Liverpool FC Brasil no Facebook e Instagram, que busca levar infos para os Reds no Brasil.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 22448,
+      "friends_count": 1278,
+      "listed_count": 34,
+      "favourites_count": 10410,
+      "statuses_count": 12090,
+      "created_at": "Sun Feb 22 21:07:25 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1212066552402579459/5BZc8YIi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212066552402579459/5BZc8YIi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3053867319/1595618873",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 4,
+    "favorite_count": 129,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1327246831747817472,
+          "id_str": "1327246831747817472",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmtT9h-XYAAnS63.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EmtT9h-XYAAnS63.jpg",
+          "url": "https://t.co/pxONblXIHi",
+          "display_url": "pic.twitter.com/pxONblXIHi",
+          "expanded_url": "https://twitter.com/livfcbr/status/1327246835396857856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 748,
+              "h": 449,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 748,
+              "h": 449,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1327246831747817472,
+          "id_str": "1327246831747817472",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmtT9h-XYAAnS63.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EmtT9h-XYAAnS63.jpg",
+          "url": "https://t.co/pxONblXIHi",
+          "display_url": "pic.twitter.com/pxONblXIHi",
+          "expanded_url": "https://twitter.com/livfcbr/status/1327246835396857856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 748,
+              "h": 449,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 748,
+              "h": 449,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "livfcbr",
+        "name": "Liverpool FC Brasil",
+        "id": 3053867319,
+        "id_str": "3053867319",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1327246831747817472,
+        "id_str": "1327246831747817472",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/media/EmtT9h-XYAAnS63.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EmtT9h-XYAAnS63.jpg",
+        "url": "https://t.co/pxONblXIHi",
+        "display_url": "pic.twitter.com/pxONblXIHi",
+        "expanded_url": "https://twitter.com/livfcbr/status/1327246835396857856/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 748,
+            "h": 449,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 748,
+            "h": 449,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 408,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1327246835396857856,
+        "source_status_id_str": "1327246835396857856",
+        "source_user_id": 3053867319,
+        "source_user_id_str": "3053867319"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1327246831747817472,
+        "id_str": "1327246831747817472",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/media/EmtT9h-XYAAnS63.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EmtT9h-XYAAnS63.jpg",
+        "url": "https://t.co/pxONblXIHi",
+        "display_url": "pic.twitter.com/pxONblXIHi",
+        "expanded_url": "https://twitter.com/livfcbr/status/1327246835396857856/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 748,
+            "h": 449,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 748,
+            "h": 449,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 408,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1327246835396857856,
+        "source_status_id_str": "1327246835396857856",
+        "source_user_id": 3053867319,
+        "source_user_id_str": "3053867319"
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1605307406511"
+}
