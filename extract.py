@@ -10,9 +10,11 @@ import time
 
 if __name__ == '__main__':
     players = Arguments(sys.argv[1:]).players
+    bootstrap_servers = Arguments(sys.argv[1:]).bootstrap_servers
     api = KafkaApi('conf/config.cfg').getApi()
     players_streammings = {}
-    producer = KProducer()
+    print(bootstrap_servers)
+    producer = KProducer(bootstrap_servers)
 
     for player in players:
         print(f'{player}: ')
