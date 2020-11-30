@@ -12,8 +12,9 @@ class TweetStreamListener(tweepy.StreamListener):
     def on_data(self, data):
         try:
             tweet = data
-            print(json.loads(tweet))
-            self.kwargs[self.data_arg] = data
-            self.handler(**self.kwargs)
+            if 'retweeted_status' not in json.loads(tweet).keys():
+                print(json.loads(tweet))
+                self.kwargs[self.data_arg] = data
+                self.handler(**self.kwargs)
         except Exception as e:
             print(e)
