@@ -21,6 +21,10 @@ class KProducer():
                                  #security_protocol="PLAINTEXT"
                                  )
 
+        json_msg_dict = json.loads(json_msg)
+        json_msg_dict['key'] = key
+        json_msg = json.dumps(json_msg_dict)
+        #print('key: {}\n\n'.format(json_msg_dict['key']))
         producer.send('tweet_to_classify', {'msg': json_msg}, key=str.encode(key))\
                 .add_callback(self._on_send_success)\
                 .add_errback(self._on_send_error)

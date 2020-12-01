@@ -1,5 +1,6 @@
 import tweepy
 import json
+import time
 
 class TweetStreamListener(tweepy.StreamListener):
 
@@ -16,5 +17,6 @@ class TweetStreamListener(tweepy.StreamListener):
                 print(json.loads(tweet))
                 self.kwargs[self.data_arg] = data
                 self.handler(**self.kwargs)
+                time.sleep(1)
         except Exception as e:
             print(e)

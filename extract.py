@@ -22,7 +22,7 @@ if __name__ == '__main__':
         players_streammings[player] = tweepy.Stream(auth = api.auth, listener=streamPlayerListener)
         players_streammings[player].filter(track=[player], is_async=True, languages=["pt"])
 
-    time.sleep(5)
+    #time.sleep(5)
 
-    for player in players:
-        players_streammings[player].disconnect()
+    #for player in players:
+    #    players_streammings[player].disconnect()
